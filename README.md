@@ -1,4 +1,4 @@
 # shellscripts
 
 ## backup-scripts
-* mysqldump
+* mysql dump
